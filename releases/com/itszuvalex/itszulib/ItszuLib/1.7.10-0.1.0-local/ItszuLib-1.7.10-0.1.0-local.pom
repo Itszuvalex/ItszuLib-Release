@@ -3,6 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.itszuvalex.itszulib</groupId>
-  <artifactId>itszulib</artifactId>
+  <artifactId>ItszuLib</artifactId>
   <version>1.7.10-0.1.0-local</version>
+  <packaging>pom</packaging>
 </project>

@@ -2,11 +2,12 @@
 <metadata>
   <groupId>com.itszuvalex.itszulib</groupId>
   <artifactId>ItszuLib</artifactId>
-  <version>1.7.10-0.1.0-local</version>
   <versioning>
+    <release>1.7.10-0.1.0-23-dev</release>
     <versions>
       <version>1.7.10-0.1.0-local</version>
+      <version>1.7.10-0.1.0-23-dev</version>
     </versions>
-    <lastUpdated>20150902063911</lastUpdated>
+    <lastUpdated>20150902065344</lastUpdated>
   </versioning>
 </metadata>

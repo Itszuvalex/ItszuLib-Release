@@ -3,14 +3,15 @@
   <groupId>com.itszuvalex.itszulib</groupId>
   <artifactId>ItszuLib</artifactId>
   <versioning>
-    <release>1.7.10-0.1.0-26-dev</release>
+    <release>1.7.10-0.1.0-27-dev</release>
     <versions>
       <version>1.7.10-0.1.0-local</version>
       <version>1.7.10-0.1.0-23-dev</version>
       <version>1.7.10-0.1.0-24-dev</version>
       <version>1.7.10-0.1.0-25-dev</version>
       <version>1.7.10-0.1.0-26-dev</version>
+      <version>1.7.10-0.1.0-27-dev</version>
     </versions>
-    <lastUpdated>20150904062002</lastUpdated>
+    <lastUpdated>20150904182239</lastUpdated>
   </versioning>
 </metadata>

@@ -3,7 +3,7 @@
   <groupId>com.itszuvalex.itszulib</groupId>
   <artifactId>ItszuLib</artifactId>
   <versioning>
-    <release>1.7.10-0.1.0-76-dev</release>
+    <release>1.7.10-0.1.0-77-dev</release>
     <versions>
       <version>1.7.10-0.1.0-local</version>
       <version>1.7.10-0.1.0-23-dev</version>
@@ -44,7 +44,8 @@
       <version>1.7.10-0.1.0-74-dev</version>
       <version>1.7.10-0.1.0-75</version>
       <version>1.7.10-0.1.0-76-dev</version>
+      <version>1.7.10-0.1.0-77-dev</version>
     </versions>
-    <lastUpdated>20160131063933</lastUpdated>
+    <lastUpdated>20160131064708</lastUpdated>
   </versioning>
 </metadata>
